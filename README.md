@@ -2,13 +2,13 @@
 
 The code in this repository is the terminal version implemented in *Python* for the _Game of Life_ automaton.
 
-### Dependencies
+## Dependencies
 
 The code has no dependencies outside of the built-in Python libraries. The only requirement is having at least Python *3.7.1+* for some of the language features to work.
 
-### Run locally
+## Run locally
 
-To run, assuming that the *Dependencies* part is satisfied, just run, the root of this repository folder:
+To run, assuming that the *Dependencies* part is satisfied, just run, in the root of this repository's directory:
 
 ```
 python main.py
